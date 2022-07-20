@@ -15,8 +15,8 @@ In our project, we will try to proposed a model that makes an assumption about w
   
   (5) Data Source Link: https://drive.google.com/drive/folders/19PN2CueE4ZRylMadE2XgTHLXM-J1c8_P?usp=sharing
   
-  Referance: [1] https://cran.r-project.org/web/packages/tfestimators/vignettes/tensorflow_
-layers.html
+  Referance: 
+  [1] https://cran.r-project.org/web/packages/tfestimators/vignettes/tensorflow_layers.html
 [2] https://colab.research.google.com/github/Giffy/CarCrashDetector/blob/master/
 2_Dataset_preparation.ipynb#scrollTo=6avtSXGjkHy_
 6
